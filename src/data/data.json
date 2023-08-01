@@ -1,0 +1,169 @@
+{
+    "Header": {
+        "title": "אנחנו de-flow",
+        "paragraph": "מספקים שירותי גיוס חדשניים באמצעות בינה מלאכותית."
+    },
+    "About": {
+        "paragraph": "De-flow היא חברה מובילה בתחום הגיוס וניהול משאבי אנוש, שמנצלת את כוחה של הבינה המלאכותית לספק פתרונות חדשניים. השירותים שלנו מותאמים אישית למנהלי משאבי אנוש ומגייסים בחברות, עוזרים להם למצוא את המועמדים המושלמים באופן יעיל ויעיל.",
+        "Why": [
+            "Lorem ipsum dolor",
+            "Tempor incididunt",
+            "Lorem ipsum dolor",
+            "Incididunt ut labore"
+        ],
+        "Why2": [
+            "Aliquip ex ea commodo",
+            "Lorem ipsum dolor",
+            "Exercitation ullamco",
+            "Lorem ipsum dolor"
+        ]
+    },
+    "Gallery": [
+        {
+            "title": "פרויקט",
+            "largeImage": "img/portfolio/01-large.jpg",
+            "smallImage": "img/portfolio/01-small.jpg"
+        },
+        {
+            "title": "פרויקט",
+            "largeImage": "img/portfolio/01-large.jpg",
+            "smallImage": "img/portfolio/01-small.jpg"
+        },
+        {
+            "title": "פרויקט",
+            "largeImage": "img/portfolio/01-large.jpg",
+            "smallImage": "img/portfolio/01-small.jpg"
+        },
+        {
+            "title": "פרויקט",
+            "largeImage": "img/portfolio/01-large.jpg",
+            "smallImage": "img/portfolio/01-small.jpg"
+        },
+        {
+            "title": "פרויקט",
+            "largeImage": "img/portfolio/01-large.jpg",
+            "smallImage": "img/portfolio/01-small.jpg"
+        },
+        {
+            "title": "פרויקט",
+            "largeImage": "img/portfolio/01-large.jpg",
+            "smallImage": "img/portfolio/01-small.jpg"
+        },
+        {
+            "title": "פרויקט",
+            "largeImage": "img/portfolio/01-large.jpg",
+            "smallImage": "img/portfolio/01-small.jpg"
+        },
+        {
+            "title": "פרויקט",
+            "largeImage": "img/portfolio/01-large.jpg",
+            "smallImage": "img/portfolio/01-small.jpg"
+        },
+        {
+            "title": "פרויקט",
+            "largeImage": "img/portfolio/01-large.jpg",
+            "smallImage": "img/portfolio/01-small.jpg"
+        }
+    ],
+    "Services": [
+        {
+            "icon": "fa fa-rocket",
+            "name": "גיוס חדשני",
+            "text": "פתרונות הגיוס המונעים באמצעות הבינה המלאכותית שלנו מפשטים את תהליך ההשמה, מה שהופך אותו למהיר ויעיל יותר."
+        },
+        {
+            "icon": "fa fa-users",
+            "name": "ניהול משאבי אנוש",
+            "text": "אנו מספקים כלים ושירותים שמעוצבים במיוחד עבור מנהלי משאבי אנוש, עוזרים להם לנהל ולייעל את אסטרטגיות הגיוס שלהם."
+        },
+        {
+            "icon": "fa fa-cogs",
+            "name": "טכנולוגיית AI",
+            "text": "בליבה של השירותים שלנו נמצאת הטכנולוגיה המתקדמת של הבינה המלאכותית שלנו, שמניעה את כלי הגיוס שלנו ומניעה את הגישה החדשנית שלנו."
+        }
+    ],
+    "Testimonials": [
+        {
+            "img": "img/testimonials/01.jpg",
+            "text": "\"De-flow עזרה לנו למצוא את המועמדים המושלמים.\"",
+            "name": "משה כהן"
+        },
+        {
+            "img": "img/testimonials/01.jpg",
+            "text": "\"De-flow עזרה לנו למצוא את המועמדים המושלמים.\"",
+            "name": "משה כהן"
+        },
+        {
+            "img": "img/testimonials/01.jpg",
+            "text": "\"De-flow עזרה לנו למצוא את המועמדים המושלמים.\"",
+            "name": "משה כהן"
+        },
+        {
+            "img": "img/testimonials/01.jpg",
+            "text": "\"De-flow עזרה לנו למצוא את המועמדים המושלמים.\"",
+            "name": "משה כהן"
+        },
+        {
+            "img": "img/testimonials/01.jpg",
+            "text": "\"De-flow עזרה לנו למצוא את המועמדים המושלמים.\"",
+            "name": "משה כהן"
+        },
+        {
+            "img": "img/testimonials/01.jpg",
+            "text": "\"De-flow עזרה לנו למצוא את המועמדים המושלמים.\"",
+            "name": "משה כהן"
+        }
+    ],
+    "Team": [
+        {
+            "img": "img/team/01.jpg",
+            "name": "משה כהן",
+            "job": "מנהל"
+        },
+        {
+            "img": "img/team/01.jpg",
+            "name": "משה כהן",
+            "job": "מנהל"
+        },
+        {
+            "img": "img/team/01.jpg",
+            "name": "משה כהן",
+            "job": "מנהל"
+        },
+        {
+            "img": "img/team/01.jpg",
+            "name": "משה כהן",
+            "job": "מנהל"
+        }
+    ],
+    "Contact": {
+        "address": "ישראל",
+        "phone": "+972 123 456 789",
+        "email": "info@de-flow.com",
+        "facebook": "facebook.com/deflow",
+        "twitter": "twitter.com/deflow",
+        "youtube": "youtube.com/deflow"
+    },
+    "Features": [
+        {
+            "icon": "fa fa-comments-o",
+            "title": "שירות מעולה",
+            "text": "אנו מספקים שירות לקוחות מעולה ומסייעים בכל שלב של התהליך."
+        },
+        {
+            "icon": "fa fa-bullhorn",
+            "title": "גיוס יעיל",
+            "text": "הטכנולוגיה שלנו מאפשרת לנו לגייס את המועמדים המתאימים ביותר בצורה מהירה ויעילה."
+        },
+        {
+            "icon": "fa fa-group",
+            "title": "שירות מותאם אישית",
+            "text": "אנו מבינים שכל חברה שונה, ולכן אנו מציעים שירותים המותאמים אישית לצרכים שלך."
+        },
+        {
+            "icon": "fa fa-magic",
+            "title": "טכנולוגיה מתקדמת",
+            "text": "אנו משתמשים בטכנולוגיה המתקדמת ביותר כדי להבטיח שאתה מקבל את המועמדים המתאימים ביותר."
+        }
+    ]
+}
